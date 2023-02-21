@@ -1,0 +1,4 @@
+From Cox and Lewis (1966).
+The Statistical Analysis of Series of Events.
+Chapman and Hall.
+799 waiting times between pulses along a nerve fiber.

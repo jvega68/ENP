@@ -1,0 +1,4 @@
+## CMB data from WMAP probe
+## first column is wavenumber (x variable)
+## second column is the estimated specturm
+## third column is estimated standard deviation

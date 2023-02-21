@@ -1,0 +1,8 @@
+Galaxy data from the Sloan Digital Sky Survey
+www.sdss.or
+The three columns give position in the sky:
+
+ra, declination, redshift (= essentially distance)
+
+These were selected so that the first two columns are nearly constant.
+Hence, only the third column is relevant.
