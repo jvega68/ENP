@@ -1,0 +1,38 @@
+Cement Composition Data
+
+SUMMARY:
+       The cement data frame has 13 rows and 5 columns.
+
+       13 samples of Portland cement were set. For  each  sample,
+       the  percentages of the four main chemical ingredients was
+       accurately measured.  While the  cement  was  setting  the
+       amount of heat evolved was also measured.
+
+DATA DESCRIPTION:
+       This data frame contains the following columns:
+
+x1:    The percentage by weight of tricalcium  aluminate  in  the
+       sample.
+x2:    The percentage by weight of tricalcium  silictate  in  the
+       sample.
+x3:    The percentage by weight of tricalcium alumino ferrite  in
+       the sample.
+x4:    The percentage by weight of  dicalcium  silictate  in  the
+       sample.
+y:     The heat (in calories per gramme of cement) evolved  while
+       the sample was setting.
+
+SOURCE:
+       The data were obtained from
+
+       Woods, H., Steinour, H.H. and Starke, H.R.  (1932)  Effect
+       of  composition  of Portland cement on heat evolved during
+       hardening.  Industrial  Engineering  and  Chemistry,   24,
+       1207-1214.
+
+OTHER REFERENCES:
+       Davison, A.C. and Hinkley, D.V. (1997)  Bootstrap  Methods
+       and Their Application. Cambridge University Press.
+
+       Venables, W.N. and  Ripley,  B.D.  (1994)  Modern  Applied
+       Statistics with S-Plus. Springer-Verlag.

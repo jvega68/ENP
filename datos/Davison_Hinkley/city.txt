@@ -1,0 +1,11 @@
+Names and Location of Selected U.S. Cities
+
+DATA DESCRIPTION:
+name:     character vector of city names.
+state:    character vector giving state for each city.
+x,y:   location of city: x is negative longitude to correspond to
+       coordinate  system  set up by function usa.  y is latitude
+       (both measured in degrees).
+
+       These cities cover the geographical regions of  the  U.S.,
+       and were not chosen by population.

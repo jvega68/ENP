@@ -1,0 +1,8 @@
+Dogs data
+
+   The data for 7 dogs are from a pharmacological experiment.
+   
+   The two variables are cardiac oxygen consumption (mvo)
+   and left ventricular pressure (lvp).
+   
+   
