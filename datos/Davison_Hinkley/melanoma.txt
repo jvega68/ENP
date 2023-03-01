@@ -1,0 +1,65 @@
+Sample Data Sets for Trellis Graphics
+
+SUMMARY:
+       These data sets  are  included  as  part  of  the  trellis
+       library  and  are used in example functions and help files
+       supplied with the library.  They  are  described  in  more
+       detail  in Cleveland (1993).  The name of each data set is
+       the same as the name used in the reference; to  find  more
+       about  the  barley  data,  for  example, look under "data,
+       barley" in the book index.
+
+DATA DESCRIPTION:
+barley:   Data frame with components: yield, variety,  year,  and
+       site, giving barley yields (bushels/acre) in 1931 and 1932
+       for 10 varieties of barley grown at  6  sites.   The  data
+       sets  barley.exposed  and barley.disease in S-PLUS are not
+       related to data set barley.
+dating:   Data frame with components: carbon and  thorium  giving
+       estimated dates of coral samples using two dating methods.
+environmental:   Data frame with  components:  ozone,  radiation,
+       temperature,   and  wind.   Measurements  of  daily  ozone
+       concentration  (ppb),  wind  speed  (mph),  daily  maximum
+       temperature (degrees F), and solar radiation (langleys) on
+       111 days from May to September 1973  in  New  York.   This
+       data  frame  is similar to air in S-PLUS (or library(data)
+       in S), but has  a  different  definition  for  ozone  (air
+       contains cube-roots of ozone).
+fusion.time:   Data frame  with  components  time,  the  time  in
+       seconds for 78 subjects to recognize a pattern in a random
+       dot stereogram, and nv.vv, a  factor  that  tells  whether
+       visual  and  verbal  information  was given to the subject
+       (level VV).
+ganglion:    Data  frame  giving  measurements  on  14  cats   of
+       cp.ratio, the ratio of central to peripheral ganglion cell
+       density, and area, the area (mm^2) of the retina.
+hamster:    Data frame giving organ sizes in  73  hamsters  (log2
+       grams):  lung, heart, liver, spleen, kidney, and testes.
+melanoma:   Data frame giving incidence of melanoma (skin cancer)
+       in  cases  per  million  population  in Connecticut for 37
+       years from 1936-1972 and its potential  relationship  with
+       sunspot numbers.  Components are named year, incidence and
+       sunspot.
+polarization:     Data  frame  giving  measurements  on  sunlight
+       scattering  in  the  atmosphere.   Component concentration
+       measures  particulate   concentration   (micro-grams/cubic
+       meter)  and  babinet  is  the  angle  (degrees)  at  which
+       polarization of sunlight vanishes.
+rubber:    Data  frame  describing  an  experiment  with  rubber.
+       Components  are hardness (degrees shore), tensile.strength
+       (kg/cm^2), abrasion.loss (g/hp-hour); ts.low  and  ts.high
+       are  amounts the tensile strength are less than or greater
+       than 180.
+singer:   Data frame giving the heights of  singers  in  the  New
+       York Choral Society.  Components are named height (inches)
+       and voice.part.
+
+       All of the data sets from Cleveland (1993) can be obtained
+       from  Statlib  by  email  or  ftp.  Send the message "send
+       visualizing.data from S" to  statlib@lib.stat.cmu.edu,  or
+       access  lib.stat.cmu.edu  by  ftp,  log in as statlib, and
+       retrieve the file S/visualizing.data.
+
+SOURCE:
+       Cleveland, William S. (1993).  Visualizing  Data.   Hobart
+       Press, Summit, New Jersey.

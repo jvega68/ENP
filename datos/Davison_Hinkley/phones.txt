@@ -1,0 +1,24 @@
+Belgium Phone Calls 1950-1973
+
+SUMMARY:
+       The phones data frame has 24 rows and 2 columns.
+
+DATA DESCRIPTION:
+       This data frame contains the following columns:
+
+year:     The last two digits of the year.
+calls:    The number of telephone  calls  made  (in  millions  of
+       calls).
+
+SOURCE:
+       The data were obtained from
+
+       Rousseeuw, P.J. and Leroy, A.M. (1987)  Robust  Regression
+       and Outlier Detection. John Wiley.
+
+OTHER REFERENCES:
+       Davison, A.C. and Hinkley, D.V. (1997)  Bootstrap  Methods
+       and Their Application. Cambridge University Press.
+
+       Venables, W.N. and  Ripley,  B.D.  (1994)  Modern  Applied
+       Statistics with Splus. Springer-Verlag
