@@ -1,0 +1,11 @@
+The data in the file earthquake.dat is a record of earthquakes recorded by the USGS for the period from the end of 1996 to the middle of 1998. The following variables are included:
+The date of the earthquake in the form yy/mm/dd.
+The time of the earthquake (Greenich Mean Time) in the form hh:mm:ss
+The latitude, in degrees, of the center of the quake
+The longitude, in degrees, of the center of the quake
+The depth, in kilometers, of the earthquake activity
+The magnitude, reported as a number, followed by two letters which indicate the scale used to measure the quake.
+The quality of the location information, ranging from A(best) to D(worst). This field may also contain a blank!!
+A comments field, truncated to 28 characters, generally containing a string (with embedded blanks) describing the location of the quake.
+
+Source: http://geology.usgs.gov/quake.shtml 
